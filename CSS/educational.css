@@ -334,6 +334,11 @@ header {
     margin-bottom: 1em;
 }
 
+.titulo-seccion a {
+    text-decoration: none;
+    color: var(--clrTextos);
+}
+
 .copy__sub {
     /* text-align: end; */
     
@@ -522,6 +527,7 @@ header {
 .form {
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 70px;
     padding: 20px 60px;
     border-radius: 1rem;
     box-shadow: 1px 1px 1px 0px rgb(90, 90, 90, .95);
