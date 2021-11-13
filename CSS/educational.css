@@ -103,6 +103,10 @@ body {
     text-decoration: underline;
 }
 
+.nav__link {
+    display: inline-flex;
+}
+
 header {
     width: 100%;
     background-image: 
