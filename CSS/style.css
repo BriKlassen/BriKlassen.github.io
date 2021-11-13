@@ -485,6 +485,7 @@ body {
 .form {
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 70px;
     padding: 20px 60px;
     border-radius: 1rem;
     box-shadow: 1px 1px 1px 0px rgb(90, 90, 90, .95);
@@ -493,7 +494,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 70px;
 }
 
 .form__container {
